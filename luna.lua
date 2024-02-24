@@ -65,4 +65,13 @@ local function customCounter()
     end
 end
 
+function onDraw()
+    -- Antizip makes the player teleport upwards if they take damage while pressing down. WHY?!
+	if player.forcedState == FORCEDSTATE_POWERDOWN_SMALL and player.downKeyPressing then
+		antizip.enabled = false
+	else
+		antizip.enabled = true
+	end
+end
+
 Graphics.addHUDElement(customCounter)
