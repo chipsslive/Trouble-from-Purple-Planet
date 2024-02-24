@@ -1,0 +1,3 @@
+lightcolor=blue
+lightbrightness=1
+lightradius=40

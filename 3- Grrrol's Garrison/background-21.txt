@@ -1,0 +1,8 @@
+gfxwidth=96
+gfxheight=64
+lightradius=82
+lightcolor=orange
+lightbrightness=1
+priority=-85
+frames=2
+lightflicker=1

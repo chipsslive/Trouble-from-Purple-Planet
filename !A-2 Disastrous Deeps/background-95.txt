@@ -1,0 +1,3 @@
+lightcolor=orange
+lightbrightness=1
+lightradius=40

@@ -1,0 +1,9 @@
+gfxwidth=32
+gfxheight=32
+width=32
+height=32
+frames=16
+lightbrightness=2
+lightradius=36
+lightcolor=#a700b8
+lightflicker=true

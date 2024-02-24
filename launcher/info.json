@@ -1,0 +1,13 @@
+{
+	"mainPage": "index.html",
+	"current-version": [1, 1, 0],
+	"update-check-website": "http://horikawaotane.pythonanywhere.com/includes/json/update.json",
+	"characterNames": ["Mario", "Unused1", "Unused2", "Unused3", "Unused4"],
+	"allowedCharacters": [1],
+	"allowTwoPlayer": false,
+	"allowPlayerSelection": false,
+	"episodeIcon": "icon.png",
+	"maxProgress": 100,
+	"progressDisplay": "percent",
+	"credits": "You won't see this\nBecause I'm using mainPage\n This can override what's normally read in the .wld file for the episode credits\nbut is only used\n in the launcher\nnot in engine"
+}

@@ -1,0 +1,4 @@
+idleFrames=1
+idleFrameDelay=8
+speakingFrames=0
+speakingFrameDelay=8

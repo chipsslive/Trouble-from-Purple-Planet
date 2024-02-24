@@ -1,0 +1,17 @@
+gfxwidth=48
+gfxheight=48
+width=48
+height=48
+jumphurt=0
+nohurt=1
+noyoshi=1
+nofireball=1
+nogravity=1
+noiceball=1
+frames=1
+framespeed=6
+framestyle=0
+nohammer=1
+noshell=1
+name="MirrorTempleBubble"
+grid=8

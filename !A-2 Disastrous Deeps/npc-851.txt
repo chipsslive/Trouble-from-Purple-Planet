@@ -1,0 +1,3 @@
+lightcolor=pink
+lightbrightness=1.5
+lightradius=64

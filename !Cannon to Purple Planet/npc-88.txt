@@ -1,0 +1,7 @@
+gfxwidth=776
+gfxheight=384
+frames=1
+framestyle=1
+width=776
+height=384
+foreground=1

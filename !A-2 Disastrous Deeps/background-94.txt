@@ -1,0 +1,3 @@
+lightcolor=#45CBD6
+lightbrightness=1
+lightradius=40

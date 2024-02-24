@@ -1,0 +1,7 @@
+This can be used on any NPC you choose.
+Just change the NPC number.
+
+Make sure to to click on these in the editor:
+
+Don't Move: YES
+Friendly: YES

@@ -1,0 +1,3 @@
+lightcolor=yellow
+lightbrightness=0.4
+lightradius=40
